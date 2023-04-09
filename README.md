@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @kckingpc
-- 👀 I’m interested in coding and swimming.
-- 🌱 I’m currently learning c,cpp,java,php,python,html,css,javascript. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @kunal chaudhari
+- 👀 I’m interested in web/soft developer as well as data analyst.
+- 🌱 I’m currently learning C, C++ , PYTHON, HTML, CSS, MYsql. 
+- 📫 How to reach me kunalchaudhari32370@gmail.com or 7972722953.
 
 <!---
 kckingpc/kckingpc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
