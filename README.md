@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kunal chaudhari
 - 👀 I’m interested in web/soft developer as well as data analyst.
-- 🌱 I’m currently learning C, C++ , PYTHON, HTML, CSS, MYsql. 
+- 🌱 I’m currently learning C, C++ , PYTHON, HTML, CSS, JAVASCIPT, MYsql. 
 - 📫 How to reach me kunalchaudhari32370@gmail.com or 7972722953.
 
 <!---
